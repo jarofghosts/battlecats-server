@@ -5,7 +5,7 @@
     "loveseat": "*",
     "route-emitter": "*",
     "http-params": "*"
-  }
+  },
   "description": "battlecats server",
   "main": "index.js",
   "scripts": {
