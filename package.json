@@ -1,6 +1,11 @@
 {
   "name": "battlecats-server",
-  "version": "0.0.0",
+  "version": "0.0.1",
+  "dependencies": {
+    "loveseat": "*",
+    "route-emitter": "*",
+    "http-params": "*"
+  }
   "description": "battlecats server",
   "main": "index.js",
   "scripts": {
